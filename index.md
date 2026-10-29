@@ -69,5 +69,6 @@ description: 소액결제·정보이용료·콘텐츠이용료의 한도 구조�
 - [휴대폰 결제 항목 구분 노트](./billing-items)
 - [휴대폰 결제 차단 종류 노트](./block-types)
 - [현금화 금액과 청구 금액의 차이](./cashout-billing)
+- [콘텐츠이용료·컨텐츠이용료 정리 노트](./content-fee)
 - [알뜰폰 휴대폰 결제 노트](./mvno)
 - [모르는 휴대폰 결제 확인 노트](./unknown-charge)
